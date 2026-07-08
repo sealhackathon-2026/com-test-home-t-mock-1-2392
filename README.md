@@ -1,1 +1,2 @@
-# com-test-home-t-mock-1-2392
+# Clean RAG Service
+Cấu trúc tối ưu và sạch sẽ.
